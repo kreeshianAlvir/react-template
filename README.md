@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This is a template for react projects.
-It includes axios, redux, redux-thunk, node-sass.
+This is a template for react projects.\
+It includes axios, redux, redux-thunk, node-sass.\
 No react component included yet
 ## Available Scripts
 
